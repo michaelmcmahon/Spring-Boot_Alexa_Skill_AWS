@@ -1,0 +1,13 @@
+c:\git\spring-boot-alexa\src\main\java\net\fiol\demo\AlexSpringBootWebApplication.java
+c:\git\spring-boot-alexa\src\main\java\net\fiol\demo\alexa\utils\AlexaUtils.java
+c:\git\spring-boot-alexa\src\main\java\net\fiol\demo\models\NumberTrivia.java
+c:\git\spring-boot-alexa\src\main\java\net\fiol\demo\alexa\handlers\AmazonCancelIntentHandler.java
+c:\git\spring-boot-alexa\src\main\java\net\fiol\demo\alexa\handlers\HandlerSpeechlet.java
+c:\git\spring-boot-alexa\src\main\java\net\fiol\demo\alexa\handlers\SpecificYearIntentHandler.java
+c:\git\spring-boot-alexa\src\main\java\net\fiol\demo\services\NumbersAPIService.java
+c:\git\spring-boot-alexa\src\main\java\net\fiol\demo\controllers\HomeController.java
+c:\git\spring-boot-alexa\src\main\java\net\fiol\demo\alexa\config\AlexaConfig.java
+c:\git\spring-boot-alexa\src\main\java\net\fiol\demo\alexa\handlers\AmazonStopIntentHandler.java
+c:\git\spring-boot-alexa\src\main\java\net\fiol\demo\alexa\handlers\AmazonHelpIntentHandler.java
+c:\git\spring-boot-alexa\src\main\java\net\fiol\demo\alexa\handlers\IntentHandler.java
+c:\git\spring-boot-alexa\src\main\java\net\fiol\demo\alexa\handlers\RandomYearIntentHandler.java

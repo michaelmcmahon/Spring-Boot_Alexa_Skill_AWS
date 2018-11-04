@@ -1,0 +1,13 @@
+net\fiol\demo\alexa\handlers\AmazonCancelIntentHandler.class
+net\fiol\demo\alexa\handlers\IntentHandler.class
+net\fiol\demo\alexa\handlers\RandomYearIntentHandler.class
+net\fiol\demo\controllers\HomeController.class
+net\fiol\demo\alexa\handlers\HandlerSpeechlet.class
+net\fiol\demo\alexa\handlers\AmazonHelpIntentHandler.class
+net\fiol\demo\alexa\handlers\SpecificYearIntentHandler.class
+net\fiol\demo\AlexSpringBootWebApplication.class
+net\fiol\demo\services\NumbersAPIService.class
+net\fiol\demo\alexa\config\AlexaConfig.class
+net\fiol\demo\alexa\utils\AlexaUtils.class
+net\fiol\demo\models\NumberTrivia.class
+net\fiol\demo\alexa\handlers\AmazonStopIntentHandler.class
